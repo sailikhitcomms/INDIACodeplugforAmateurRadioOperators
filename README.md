@@ -13,4 +13,5 @@ Suppored Radios: Alinco DJMD5E, Alinco DJMD5XEG, Alinco DRMD500E, Alinco DRMD500
 For any suggestions or changes reach out to me here: sailikhit.comms@gmail.com 
 
 
-![Screenshot 2023-06-27 193825](https://github.com/sailikhitcomms/INDIACodeplugforAmateurRadioOperators/assets/139990601/ff000db4-b751-4116-97a2-238ab6a724cc)
+
+![Screenshot 2025-06-18 111341](https://github.com/user-attachments/assets/b0f10432-714b-44f8-aa62-8156bd289ed6)
